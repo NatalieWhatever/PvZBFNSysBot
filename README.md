@@ -21,6 +21,11 @@ A remote-mod menu for Plants vs. Zombies: Battle for Neighborville on the Ninten
 
 ## Notes
 * You must turn the cheats off within the program or restart the game to fully disable them.
+* Joining public Giddy Park lobbies does not work with the free online cheat.
+* Attempting to join another player's group with the free online cheat active will trap you inside the player info UI until you either<br>
+a) get vanquished<br>
+b) get disconnected from the server<br>
+c) restart the game<br>
 
 # Credits
 * **supremetakoyaki** for their work on [ShiverBot](https://github.com/supremetakoyaki/ShiverBot "ShiverBot"). The NetworkManager namespace is a modified version of their work.
