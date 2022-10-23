@@ -1,5 +1,5 @@
 # PvZBFNSysBot
-A remote-mod menu for Plants vs. Zombies: Battle for Neighborville on the Nintendo Switch.
+A remote mod menu for Plants vs. Zombies: Battle for Neighborville on the Nintendo Switch.
 
 # Features
 * Currency editors
