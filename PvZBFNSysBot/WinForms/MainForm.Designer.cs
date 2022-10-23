@@ -197,6 +197,7 @@ namespace PvZBFNSysBot.WinForms
             // 
             // submitCurrencyChangesButton
             // 
+            this.submitCurrencyChangesButton.Enabled = false;
             this.submitCurrencyChangesButton.Location = new System.Drawing.Point(192, 105);
             this.submitCurrencyChangesButton.Name = "submitCurrencyChangesButton";
             this.submitCurrencyChangesButton.Size = new System.Drawing.Size(173, 37);
